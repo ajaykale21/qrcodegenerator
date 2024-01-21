@@ -12,3 +12,9 @@ The generated QR code will be displayed on the page.
 
 To download the QR code, click the "Download" button
 
+## Features
+
+- Generate QR codes from text or URLs.
+- Download the generated QR code as an image.
+- Clean and user-friendly interface
+
